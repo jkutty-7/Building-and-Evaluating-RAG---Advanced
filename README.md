@@ -11,4 +11,6 @@
 
  hugging face 
 
+ expplained the function in the sentenced window retrieval function
+
  To do all these work in the jupyter file 
