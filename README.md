@@ -11,6 +11,8 @@
 
  hugging face 
 
- expplained the function in the sentenced window retrieval function
+ The folder named RAG Triad metrics is the one shows the ways to create Sentence window and automerging pipelines
+
+ explained the function in the sentenced window retrieval function
 
  To do all these work in the jupyter file 
